@@ -1,0 +1,12 @@
+
+GitHub Link: https://github.com/yardenochana/Flask-App
+
+Team Members:
+Yarden Ochana 315321851
+Amit Sasson 322759648
+
+Markdown:
+We took our data preparation function from Assignment 2 and the prediction function we created in Assignment 2, upon which our car price prediction application is based.
+We chose to include in our application the columns we carefully considered in Assignment 2, leaving them as fields for the user to input car data.
+To ensure the prediction is as accurate as possible, we decided to include categorical lists in some fields from which the data can be selected, to avoid incorrect or improperly formatted entries.
+Additionally, we chose to make all the fields in our application mandatory to achieve maximum prediction accuracy.
